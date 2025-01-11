@@ -3,6 +3,3 @@ FROM portainer/portainer-ce:2.21.5
 
 # Expose the required ports
 EXPOSE 8000 9443
-
-# Command to start Portainer
-CMD ["portainer"]
